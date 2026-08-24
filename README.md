@@ -495,6 +495,5 @@ training deep learning models, since it has stronger tools for both.
   cleanup, extra credit
 - **Adham Kamel** — Contributor: data visualisation, training the Decision Tree
   model, and the speed analysis for the PCA model
-- **Patcharapol Puckdee** — Contributor: documentation, including the README and
-  write-up, and supporting team collaboration through feedback and communication
+- **Patcharapol Puckdee** — Contributor: Reviewed teammates' code across the preprocessing and modeling notebooks, wrote the project documentation and results write-up, and organized team meetings to keep work aligned and on schedule.
 - **Conner Houghtby** — Contributor: <!-- TODO: this entry is incomplete -->
