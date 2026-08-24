@@ -17,7 +17,7 @@
  
 ## Introduction
  
-**The short version: we tried to work out whether a beehive is healthy just by listening to it.**
+**We tried to work out whether a beehive is healthy just by listening to it.**
  
 Bees pollinate about a third of the world's food. Keeping them healthy matters, but
 checking on a hive is a hassle — a beekeeper has to physically open it up, which
